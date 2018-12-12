@@ -2,7 +2,7 @@
 
 <h2>Detalhe</h2>
 
-<p>Esse projeto tem como objetivo documentar e testar uma API Rest usando o Swagger, o mesmo pode ser executado com o Tomcat Embedded, ou qualquer outro servidor/container externo</p>
+<p>Esse projeto tem como objetivo documentar e testar uma API Rest usando o Swagger, o mesmo pode ser executado com o Tomcat Embedded, ou qualquer outro servidor/container externo.</p>
 
 <h2>Link do Tutorial</h2>
 

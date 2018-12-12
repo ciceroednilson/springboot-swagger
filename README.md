@@ -1,4 +1,4 @@
-<H1>Documentando e testando uma API Rest com Swagger e Spring Boot</H1>
+<H1>Documentando e testando uma API Rest com Swagger e Spring Boot.</H1>
 
 <h2>Detalhe</h2>
 
